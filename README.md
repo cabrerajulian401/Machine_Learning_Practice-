@@ -10,7 +10,9 @@
 - Perceptron Algorithm
 - Principal Component Analysis (PCA)
 - K-Means Clustering
+- Agglomerative_Clustering
 - Model Performance Metrics (Confusion Matrix, F1 Score, etc.)
+
 
 ---
 
@@ -20,7 +22,8 @@
 - **Libraries**:  
   - `numpy`, `pandas`  
   - `matplotlib`, `seaborn`  
-  - `scikit-learn`  
+  - `scikit-learn`
+  - `scipy` 
   - `jupyter`
 
 ---
